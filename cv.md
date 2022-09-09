@@ -20,8 +20,8 @@ My goal is to learn programming, learn a new profession. Ireally want to leern h
 * JS (started studying recently)
 
 ## ***Code example:***
-
-```function positiveSum(arr) {
+```
+function positiveSum(arr) {
   let result = 0;
   for (let i = 0; i < arr.length; i++) {
     if(arr[i] > 0) {
